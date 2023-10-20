@@ -1,5 +1,4 @@
-// C Program to make a Simple Calculator
-// Using switch case
+
 #include <stdio.h>
 #include <stdlib.h>
 
